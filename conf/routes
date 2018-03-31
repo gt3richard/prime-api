@@ -1,0 +1,2 @@
+
+GET     /primes/:value              controllers.PrimeController.getPrimes(value: Int)
